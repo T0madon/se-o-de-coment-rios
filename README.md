@@ -1,25 +1,8 @@
-# Seção de comentários
+# React + Vite
 
-Interface de seção de comentários para uma rede social qualquer, desenvolvida em React.js, fiz utilizando LocalStorage. Também usei inúmeros recursos do React, como a componentização de elementos.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Sobre
+Currently, two official plugins are available:
 
-O projeto é simples, porém me abriu para inúmeras ideias de projetos mais complexos do que o habitual, logo mais estarei atualizando meus repositórios com esses projetos.
-
-## Como Usar
-
-Instale os arquivos do repositório do GitHub;
-Em seguida abra o terminal já na pasta do projeto e digite o seguinte comando: 
-
-```console
-npm install
-```
-
-Após instalar as dependências, ainda no terminal, digite o seguinte código para rodar o projeto pelo Vite:
-
-```console
-npm run dev
-```
-
-Pronto, você está com o projeto aberto em seu navegador!!
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
