@@ -22,4 +22,4 @@ Agora, digite o seguinte comando para executar um script do package.json afim de
 
 Imagem de como o projeto ficou: 
 
-![[Exemplo do programa](https://raw.githubusercontent.com/T0madon/se-o-de-coment-rios/main/exemplo.png)
+![Exemplo do programa](https://raw.githubusercontent.com/T0madon/se-o-de-coment-rios/main/exemplo.png)
